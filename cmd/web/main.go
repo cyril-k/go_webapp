@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/kkn1993/go-webapp/pkg/config"
-	"github.com/kkn1993/go-webapp/pkg/handlers"
-	"github.com/kkn1993/go-webapp/pkg/render"
+	"github.com/kkn1993/go_webapp/pkg/config"
+	"github.com/kkn1993/go_webapp/pkg/handlers"
+	"github.com/kkn1993/go_webapp/pkg/render"
 )
 
 const portNumber = ":8088"

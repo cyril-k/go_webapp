@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/kkn1993/go-webapp/pkg/config"
-	"github.com/kkn1993/go-webapp/pkg/models"
-	"github.com/kkn1993/go-webapp/pkg/render"
+	"github.com/kkn1993/go_webapp/pkg/config"
+	"github.com/kkn1993/go_webapp/pkg/models"
+	"github.com/kkn1993/go_webapp/pkg/render"
 )
 
 var Repo *Repository
